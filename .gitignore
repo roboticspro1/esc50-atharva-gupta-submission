@@ -1,0 +1,9 @@
+# Local dataset and Python environments are intentionally not part of the submission.
+ESC-50-master/
+*.zip
+.venv/
+.venv*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
